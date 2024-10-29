@@ -1,8 +1,5 @@
 # Ignore folder
 .obsidian/
-/ChatBot/.idea
-/ChatBot/env
-/ChatBot/model
 
 /FunctionCalling/.idea
 /FunctionCalling/model
