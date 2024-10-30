@@ -1,5 +1,6 @@
 # Ignore folder
 .obsidian/
+.vscode/ 
 
 /FunctionCalling/.idea
 /FunctionCalling/model
